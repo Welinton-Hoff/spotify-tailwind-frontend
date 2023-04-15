@@ -38,7 +38,7 @@ export function Footer() {
           <Repeat size={20} className="text-zinc-200" />
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 mt-2">
           <span className="text-xs text-zinc-400">0:58</span>
           <div className="h-1 rounded-full w-96 bg-zinc-600">
             <div className="bg-zinc-200 w-40 h-1 rounded-full" />
